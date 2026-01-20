@@ -1,0 +1,21 @@
+{
+    "model": {
+        "type": "minecraft:condition",
+        "property": "minecraft:using_item",
+        "on_false": {
+            "type": "minecraft:model",
+            "model": null
+        },
+        "on_true": {
+            "property": "minecraft:use_duration",
+            "scale": 0.03,
+            "type": "minecraft:range_dispatch",
+            "entries": [
+            ],
+            "fallback": {
+                "type": "minecraft:model",
+                "model": null
+            }
+        }
+    }
+}
