@@ -1,0 +1,13 @@
+{
+    "pack":{
+    "pack_format": 46,
+        "description":"§4Eating Animation \n         §7[1.21.4+]",
+        "supported_formats": {
+            "min_inclusive": 46,
+            "max_inclusive": 320,
+            "authors":["ThatCuteOne"]
+        },
+        "min_format": 46,
+        "max_format": 320
+    }
+}
