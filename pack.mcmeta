@@ -5,7 +5,12 @@
         "supported_formats": {
             "min_inclusive": 46,
             "max_inclusive": 320,
-            "authors":["ThatCuteOne"]
+            "Maintainers":[
+                "ThatCuteOne"
+            ],
+            "Contributers":[
+                "Weydoo"
+            ]
         },
         "min_format": 46,
         "max_format": 320
